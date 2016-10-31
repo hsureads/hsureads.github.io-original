@@ -23,8 +23,8 @@
 	    		<ul>
 	        		<li><a href="mailto:tchsu1@gmail.com">email</a></li>
 	        		<li><a href="https://github.com/hsureads">github.com/hsureads</a></li>
+				{% if site.footer-links.twitter %}<a href="http://twitter.com/{{ site.footer-links.twitter }}">{% include svg-icons/twitter.html %}</a>{% endif %}
 				</ul>
-			{% if site.footer-links.twitter %}<a href="http://twitter.com/{{ site.footer-links.twitter }}">{% include svg-icons/twitter.html %}</a>{% endif %}
 			</footer>
 		</body>
 	</html>
