@@ -7,5 +7,5 @@ excerpt:
 
 As this is the first Trello board I am sharing, I would provide a brief rundown of how things are organized.
 
-<iframe src="https://trello.com/b/jZeQ2RWt.json" width=100% height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://trello.com/b/jZeQ2RWt.js" width=100% height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
