@@ -1,6 +1,7 @@
 name: T Hsu
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+paginate: 6
 footer-links:
   twitter: thsubox
   email: tchsu1@gmail.com
