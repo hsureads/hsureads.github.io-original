@@ -7,8 +7,7 @@ title: Hsu Chronicles Her Reads
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-		    <br>
+		<li><span><em>{{ post.date | date_to_string }}</em></span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 		    <p><article> {{ post.excerpt }} </article></p>
 		</li>
 	  {% endfor %}
