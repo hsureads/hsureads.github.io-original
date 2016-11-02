@@ -7,4 +7,4 @@ excerpt:
 
 As this is the first Trello board I am sharing, I would provide a brief rundown of how things are organized.
 
-[![10/29 - 11/4 Trello Board]<script src="https://trello.com/b/jZeQ2RWt.js"></script>
+<iframe src="https://trello.com/b/jZeQ2RWt.html" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
