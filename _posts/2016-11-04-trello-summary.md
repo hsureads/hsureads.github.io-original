@@ -7,4 +7,4 @@ excerpt:
 
 As this is the first Trello board I am sharing, I would provide a brief rundown of how things are organized.
 
-[![10/29 - 11/4 Trello Board](https://trello.com/b/jZeQ2RWt.png)](https://trello.com/b/jZeQ2RWt)
+[![10/29 - 11/4 Trello Board](https://trello.com/b/jZeQ2RWt.html)](https://trello.com/b/jZeQ2RWt)
